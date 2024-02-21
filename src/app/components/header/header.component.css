@@ -7,6 +7,7 @@
 --moonstone: #53b3cbff;
 --navbar: #F97E70;
 --Text: #F9F7F3;
+--Botones: #FBD34E;
 
 /* CSS HSL */
 --night: hsla(280, 14%, 4%, 1);
@@ -20,4 +21,20 @@
 .bg-blue {
     background-color: #F97E70;
     padding: 20px;
+  }
+
+  .navbar-brand {
+    color: #F9F7F3;
+  }
+
+  .form-control {
+    width: 80%;
+  }
+
+  .btn-warning{
+    background-color: #FBD34E;
+  }
+
+  .form-control{ 
+    background-color: #F9F7F3;
   }
